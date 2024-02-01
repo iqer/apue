@@ -1,0 +1,6 @@
+a.out
+cp.c
+demo.txt
+include
+ls.c
+ls.py
